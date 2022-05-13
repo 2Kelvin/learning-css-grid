@@ -34,4 +34,17 @@ body{
 .item:nth-of-type(2){
     grid-column-start: 2;
     grid-column-end: 4;
+    background-color: #e7d154;
+}
+
+.item:nth-of-type(8){
+    grid-row-start: 3;
+    grid-row-end: 5;
+    background-color: #619c36;
+}
+
+.item:nth-of-type(9){
+    grid-column-start: 2;
+    grid-column-end: 4;
+    background-color: #6e3333;
 }
