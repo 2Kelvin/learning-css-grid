@@ -30,3 +30,8 @@ body{
     border: rgb(241, 241, 181) solid 1px;
     border-radius: 15px;
 }
+
+.item:nth-of-type(2){
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
