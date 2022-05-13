@@ -19,6 +19,7 @@ body{
     max-width: 960px;
     margin: 100px auto;
     padding: 10px;
+    /* grid-template-rows: repeat(3, 1fr); */
 }
 
 .item{
@@ -26,6 +27,6 @@ body{
     color: white;
     font-size: 20px;
     padding: 20px;
-    border: yellow solid 1px;
+    border: rgb(241, 241, 181) solid 1px;
     border-radius: 15px;
 }
