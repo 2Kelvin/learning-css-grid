@@ -40,11 +40,13 @@ body{
 .item:nth-of-type(8){
     grid-row-start: 3;
     grid-row-end: 5;
+    grid-column-start: 3;
+    grid-column-end: 4;
     background-color: #619c36;
 }
 
 .item:nth-of-type(9){
-    grid-column-start: 2;
-    grid-column-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 3;
     background-color: #6e3333;
 }
