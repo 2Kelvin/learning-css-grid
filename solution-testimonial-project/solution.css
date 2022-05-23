@@ -82,6 +82,9 @@ body{
     grid-column: 2/4;
     grid-row: 2/3;
 }
+footer h5{
+    text-align: center;
+}
 
 /* media query for a responsive mobile design */
 @media (max-width:768px) {
